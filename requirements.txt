@@ -1,0 +1,8 @@
+google-api-python-client
+streamlit
+matplotlib
+pandas
+seaborn
+streamlit-lottie==0.0.3
+streamlit-option-menu==0.3.6
+requests
