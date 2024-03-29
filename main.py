@@ -53,7 +53,7 @@ def main():
 
     # with open('style.css') as f:
     #     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
-    st.markdown('<style>' + open('style.css').read() + '</style>', unsafe_allow_html=True)
+    # st.markdown('<style>' + open('style.css').read() + '</style>', unsafe_allow_html=True)
     sidebar()
 
 
