@@ -32,4 +32,4 @@ def About_Page():
     st.error("If you come across any technical issues or bugs within the app, please report or send a message to me. Your input helps us improve YT Insights Pro and deliver a seamless experience for all users.")
 
     st.write("---")
-    st.success("Thank you for choosing [Your App Name]. We appreciate your support and look forward to serving you better in the future.")
+    st.success("Thank you for choosing [YT Insights Pro]. We appreciate your support and look forward to serving you better in the future.")
